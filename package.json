@@ -1,0 +1,9 @@
+{
+  "name": "tampermonkeyDemo",
+  "version": "0.1",
+  "description": "test tampermonkeyDemo",
+  "main": "index.js",
+  "repository": "https://github.com/lisirgo/tampermonkeyDemo.git",
+  "author": "lisirgo",
+  "license": "MIT"
+}
